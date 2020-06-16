@@ -61,7 +61,7 @@ Please refer to the official website of Kaspersky Rescue Disk 18 at http://suppo
 
 ## Section 4 - Mindset
 
-Lastly but most importantly - Interested in the mindset how to develop this small EzUpdater? Please move to the [Document](Kaspersky Rescue Disk - Update definitions offline.pdf) for a peek.
+Lastly but most importantly - Interested in the mindset how to develop this small EzUpdater? Please move to the [Document] (Kaspersky Rescue Disk - Update definitions offline.pdf) for a peek.
 
 
 
