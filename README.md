@@ -2,9 +2,11 @@
 
 Version 1.1
 
-Source:	https://github.com/MarcusZou/kasperskyResDsk-updater/
+Source:	https://github.com/MarcusZou/kasperskyResDsk-Updater/
 
 
+
+## Section 1 - Intro
 
 **Kaspersky Rescue Disk Offline EzUpdater** is a toolkit developed by **EzDone Studio** which fabricates a unique offline applet to update the virus definitions of the Kaspersky Rescue Disk 2018 ISO.
 
@@ -24,6 +26,8 @@ The main issues of Kaspersky Rescue Disk 2018 are as below:
 
 
 
+## Section 2 - How-to
+
 This tool fixes the above problems by updating your existing Kaspersky Rescue Disk ISO with the latest virus definitions from the Kaspersky Servers (they update the virus database daily, believe me or not). This helps in keeping your Kaspersky Recue Disk up-to-date without having to download a lot of files. Hence saving a lot of time and bandwidth.
 
 1. Download Kaspersky Rescue Disk from the [official website](http://rescuedisk.kaspersky-labs.com/rescuedisk/updatable/2018/krd.iso)
@@ -42,6 +46,8 @@ This tool fixes the above problems by updating your existing Kaspersky Rescue Di
 
 
 
+## Section 3 - Helper
+
 The toolbox you can manually make your USB Drive bootable are -
 
 * [Rufus](https://rufus.ie/) (preferred and always better)
@@ -49,20 +55,23 @@ The toolbox you can manually make your USB Drive bootable are -
 
 
 
-Lastly please refer to the official website of Kaspersky Rescue Disk 18 at http://support.kaspersky.com/14226
+Please refer to the official website of Kaspersky Rescue Disk 18 at http://support.kaspersky.com/14226
 
 
 
+## Section 4 - Mindset
+
+Lastly but most importantly - Interested in the mindset how to develop this small EzUpdater? Please move to the [Document](Kaspersky Rescue Disk - Update definitions offline.pdf) for a peek.
 
 
-===========================
+
+## Section 5 - Outro
 
 Outperformance is never an issue
 
+
+
 ============================
-
-
-
 
 EzDone Studio
 
