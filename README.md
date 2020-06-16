@@ -26,9 +26,9 @@ The main issues of Kaspersky Rescue Disk 2018 are as below:
 
 This tool fixes the above problems by updating your existing Kaspersky Rescue Disk ISO with the latest virus definitions from the Kaspersky Servers (they update the virus database daily, believe me or not). This helps in keeping your Kaspersky Recue Disk up-to-date without having to download a lot of files. Hence saving a lot of time and bandwidth.
 
-1. Download Kaspersky Rescue Disk from http://rescuedisk.kaspersky-labs.com/rescuedisk/updatable/2018/krd.iso
+1. Download Kaspersky Rescue Disk from the [official website](http://rescuedisk.kaspersky-labs.com/rescuedisk/updatable/2018/krd.iso)
 
-2. Download the EzUpdater as a zip from http://github.com/MarcusZou/KasperskyResDsk-Updater/zipball/master and extract it to a local directory.
+2. Download the EzUpdater as a zip from [here](http://github.com/MarcusZou/KasperskyResDsk-Updater) and extract it to a local directory.
 
 3. Copy the just downloaded krd.iso to the above directory.
 
