@@ -1,6 +1,6 @@
 # Kaspersky Rescue Disk Offline EzUpdater
 
-Version 1.1
+Version 2.0
 
 Source:	https://github.com/MarcusZou/kasperskyResDsk-Updater/
 
